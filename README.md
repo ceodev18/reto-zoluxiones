@@ -66,3 +66,9 @@ Puntos bonus:
 ·Desplegar sin errores en AWS con el comando deploy del framework serverless [OK]
 
 ·Mayor complejidad de Integración [OK]
+
+
+
+# Arquitectura
+
+<img width="901" alt="image" src="https://user-images.githubusercontent.com/20958764/180785280-b1b05da0-a922-4f49-b4af-30590883d042.png">
